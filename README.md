@@ -1,4 +1,7 @@
-## <img src= https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/brain-digital-art-artificial-intelligence-glowing-wallpaper-preview.jpg />
+## 
+<p align="center">
+<img src= https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/brain-digital-art-artificial-intelligence-glowing-wallpaper-preview.jpg />
+</p>
 
 <!--
 **saitbedirhanpala/saitbedirhanpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
