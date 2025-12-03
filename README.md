@@ -42,7 +42,7 @@ I build software with a **systems mindset**: modular, scalable, cloud-native, au
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saitbedirhanpala/pipeline-diagrams/main/ai_pipeline_dark.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/ai_pipeline.png#:~:text=.gitkeep-,ai_pipeline,-.png" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saitbedirhanpala/pipeline-diagrams/main/ai_pipeline_light.png" />
     <img alt="AI Pipeline Diagram" src="https://raw.githubusercontent.com/saitbedirhanpala/pipeline-diagrams/main/ai_pipeline_light.png" />
   </picture>
