@@ -1,4 +1,29 @@
-## 
+<!-- BACKGROUND WRAPPER START -->
+<div style="
+  position: relative;
+  padding: 32px 24px;
+  border-radius: 16px;
+  overflow: hidden;
+">
+
+  <!-- Background image -->
+  <img
+    src="https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/advanced-ai-anatomy-artificial.jpg"
+    alt="Background"
+    style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.12;        /* Arkaplanın şeffaflığını buradan ayarla */
+      z-index: -1;
+    "
+  />
+
+  <!-- README CONTENT START -->
+  ## 
 <p align="center">
 <img src= https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/brain-digital-art-artificial-intelligence-glowing-wallpaper-preview.jpg />
 </p>
@@ -155,3 +180,11 @@ I build software with a **systems mindset**: modular, scalable, cloud-native, au
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <!-- Buradan itibaren tüm mevcut README içeriğini yapıştır -->
+  
+  <!-- README CONTENT END -->
+</div>
+<!-- BACKGROUND WRAPPER END -->
+
+
+
