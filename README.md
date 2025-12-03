@@ -111,10 +111,16 @@ I build software with a **systems mindset**: modular, scalable, cloud-native, au
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saitbedirhanpala&show_icons=true&theme=dark&count_private=true" />
-
-  <img height="170" src="https://streak-stats.demolab.com?user=saitbedirhanpala&theme=dark" />
-
+  <img
+    height="170"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=saitbedirhanpala&show_icons=true&theme=dark&count_private=true"
+  />
+  <img
+    height="170"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=saitbedirhanpala&theme=dark"
+  />
 </p>
 
 ---
