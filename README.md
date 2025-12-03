@@ -7,7 +7,8 @@
 ">
 
   <!-- Background image -->
-  <img
+  
+ <!--  <img
     src="https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/advanced-ai-anatomy-artificial.jpg"
     alt="Background"
     style="
@@ -25,7 +26,7 @@
   <!-- README CONTENT START -->
   ## 
 
-
+-->
 <!--
 **saitbedirhanpala/saitbedirhanpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
