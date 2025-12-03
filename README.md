@@ -104,7 +104,7 @@ I build software with a **systems mindset**: modular, scalable, cloud-native, au
 5. **Unity Ingestion** — Prefab auto-creation, LODs, collider setup  
 6. **In-Game Integration** — Asset store pipeline, runtime optimization  
 
-> If you prefer, I can also generate a *full SVG vector diagram* with labeled components.
+
 
 
 
