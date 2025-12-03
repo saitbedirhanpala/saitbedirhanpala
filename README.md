@@ -115,16 +115,19 @@ I build software with a **systems mindset**: modular, scalable, cloud-native, au
 
 <p align="left">
   <img
-    height="170"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=saitbedirhanpala&show_icons=true&theme=dark&count_private=true"
+    alt="GitHub followers"
+    src="https://img.shields.io/github/followers/saitbedirhanpala?label=Followers&style=for-the-badge&logo=github"
   />
   <img
-    height="170"
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=saitbedirhanpala&theme=dark"
+    alt="GitHub User's stars"
+    src="https://img.shields.io/github/stars/saitbedirhanpala?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github"
+  />
+  <img
+    alt="Profile repo commit activity"
+    src="https://img.shields.io/github/commit-activity/y/saitbedirhanpala/saitbedirhanpala?label=Profile%20Repo%20Activity&style=for-the-badge&logo=github"
   />
 </p>
+
 
 ---
 
