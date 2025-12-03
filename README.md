@@ -37,27 +37,6 @@ I build software with a **systems mindset**: modular, scalable, cloud-native, au
 - Building a **commercial Unity game** leveraging AI-powered production workflows  
 
 ---
-
-## 🧠 AI / 3D Pipeline Diagram (High-Level Architecture)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/ai_pipeline.png#:~:text=.gitkeep-,ai_pipeline,-.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saitbedirhanpala/pipeline-diagrams/main/ai_pipeline_light.png" />
-    <img alt="AI Pipeline Diagram" src="https://raw.githubusercontent.com/saitbedirhanpala/pipeline-diagrams/main/ai_pipeline_light.png" />
-  </picture>
-</p>
-
-**Pipeline Stages:**
-1. **Text-to-3D Generation** — Scenario / custom diffusion model  
-2. **Blender Python API** — Cleanup, retopology, auto-UV, material passes  
-3. **Texture Generation** — AI texture synthesis, PBR maps  
-4. **FBX/GLB Export**  
-5. **Unity Ingestion** — Prefab auto-creation, LODs, collider setup  
-6. **In-Game Integration** — Asset store pipeline, runtime optimization  
-
-> If you prefer, I can also generate a *full SVG vector diagram* with labeled components.
-
 ---
 
 ## 🛠 Tech Stack
@@ -106,6 +85,28 @@ I build software with a **systems mindset**: modular, scalable, cloud-native, au
 </p>
 
 ---
+
+## 🧠 AI / 3D Pipeline Diagram (High-Level Architecture)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saitbedirhanpala/saitbedirhanpala/blob/main/assets/ai_pipeline.png#:~:text=.gitkeep-,ai_pipeline,-.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saitbedirhanpala/pipeline-diagrams/main/ai_pipeline_light.png" />
+    <img alt="AI Pipeline Diagram" src="https://raw.githubusercontent.com/saitbedirhanpala/pipeline-diagrams/main/ai_pipeline_light.png" />
+  </picture>
+</p>
+
+**Pipeline Stages:**
+1. **Text-to-3D Generation** — Scenario / custom diffusion model  
+2. **Blender Python API** — Cleanup, retopology, auto-UV, material passes  
+3. **Texture Generation** — AI texture synthesis, PBR maps  
+4. **FBX/GLB Export**  
+5. **Unity Ingestion** — Prefab auto-creation, LODs, collider setup  
+6. **In-Game Integration** — Asset store pipeline, runtime optimization  
+
+> If you prefer, I can also generate a *full SVG vector diagram* with labeled components.
+
+
 
 ## 📈 GitHub Stats
 
